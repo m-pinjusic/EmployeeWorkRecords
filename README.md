@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Idea of this project is to have one Google Drive Sheet of work and vacation records for every employee and that this app converts it to JSON, then makes list for all employees.
+In that list you can export excel for every employee where data of work and vacation records is more structured and more readable.
+
 
 ## Available Scripts
 
