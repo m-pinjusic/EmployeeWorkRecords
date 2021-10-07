@@ -67,7 +67,7 @@ class App extends Component {
       .catch((error) => {
         this.setState({ loading: false });
         this.setState({ error: true });
-        const errorMsg = error.message;
+        //const errorMsg = error.message;
       });
   }
 
