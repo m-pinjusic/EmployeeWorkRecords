@@ -5,13 +5,14 @@ import {
   ExcelExportColumn,
   ExcelExportColumnGroup,
 } from "@progress/kendo-react-excel-export";
-import { aggregateBy, process } from '@progress/kendo-data-query';
+//import { aggregateBy, process } from '@progress/kendo-data-query';
 import products from '../../products.json';
 
 
 class Excels extends React.Component {
   _exporter;
   data = [...products];
+  provjera=true;
   export = () => {
     this._exporter.save();
     alert(this.props.clickedEmployee);
