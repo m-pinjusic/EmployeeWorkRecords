@@ -1,6 +1,8 @@
 Idea of this project is to have one Google Drive Sheet of work and vacation records for every employee and that this app converts it to JSON, then makes list for all employees.
 In that list you can export excel for every employee where data of work and vacation records is more structured and more readable.
 
+[{"status":200,"data":[{"":"Početak rada","Tomislav":"7. 2019.","Luka":"8. 2019.","Jasmina":"11. 2019.","Krešo":"12. 2019.","Mirko":"2019-10-31T23:00:00.000Z","Marin":""},{"":"2019-12-31T23:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-01-31T23:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-02-29T23:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-03-31T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-04-30T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-05-31T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-06-30T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-07-31T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-08-31T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-09-30T22:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-10-31T23:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""},{"":"2020-11-30T23:00:00.000Z","Tomislav":2,"Luka":3,"Jasmina":5,"Krešo":6,"Mirko":5,"Marin":""}],"employees":["","Tomislav","Luka","Jasmina","Krešo","Mirko","Marin"]}]
+
 
 ## Available Scripts
 
